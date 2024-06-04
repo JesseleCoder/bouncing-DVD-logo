@@ -4,7 +4,7 @@ from random import randint as int
 
 # Initialize Pygame
 pygame.init()
-print("DVD.PY running")
+print("made by jesselecoder/yoursovietcommrad made on replit")
 # Constants
 WIDTH, HEIGHT = 800, 400
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
